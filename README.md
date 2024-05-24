@@ -1,4 +1,3 @@
-# Cyborg98
 # TryHackMe SOC Level 1:     
 
 ### https://tryhackme.com/path/outline/soclevel1
