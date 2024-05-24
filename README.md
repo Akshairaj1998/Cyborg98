@@ -18,4 +18,6 @@ As an aspiring SOC analyst, I was naturally excited to complete TryHackMe's dedi
 
 
 # Certificate:
+![TryHackMe_SOC_L1_THM-Z6OO8XEQTI](https://github.com/blwhit/SOC-Training/assets/71025798/f6398ac6-c8a9-4239-9222-f951dca7617d)
+
 
